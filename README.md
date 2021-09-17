@@ -3,5 +3,7 @@ Organize your task with the Eisenhower-Matrix method of prioritizing tasks on th
 
 Coming soon on iOS and macOS
 
+Current Version: 1.0
+
 ![alt text](https://github.com/alexroemerdeveloper/HanaToDo/blob/main/Intro1.gif)
 ![alt text](https://github.com/alexroemerdeveloper/HanaToDo/blob/main/Intro2.gif)
