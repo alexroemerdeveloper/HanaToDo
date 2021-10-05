@@ -1,6 +1,9 @@
 # HanaToDo
 Organize your task with the Eisenhower-Matrix method of prioritizing tasks on the basis of their urgency.
 
+Download-Link
+https://apps.apple.com/de/app/hanatodo/id1586144839
+
 Next Features:
  - coming soon on macOS (this fall)
  - add image and pdf Data to a task
