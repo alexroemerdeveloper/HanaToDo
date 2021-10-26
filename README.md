@@ -1,4 +1,7 @@
 # HanaToDo
+
+macOS / iOS / iPadOS
+
 Organize your task with the Eisenhower-Matrix method of prioritizing tasks on the basis of their urgency.
 
 Eisenhower Matrix is a method of prioritizing your tasks on the basis of their urgency. It helps to determine the activities which are important and the ones which do not deserve your attention at all. The brainchild behind the famous Eisenhower Matrix is Dwight D. Eisenhower. One of his famous quotes is, “most things which are urgent are not important, and most things which are important are not urgent.”
