@@ -7,13 +7,11 @@ Download-Link
 https://apps.apple.com/de/app/hanatodo/id1586144839
 
 Next Features:
- - coming soon on macOS (this fall)
- - add image and pdf Data to a task
  - filtering tasks of specific type 
  - Widgets
  - security / locked projects and task's
- 
-Current Version: 1.0
+
+Current Version: 1.5 
 
 ![alt text](https://github.com/alexroemerdeveloper/HanaToDo/blob/main/iOS2.gif)
 ![alt text](https://github.com/alexroemerdeveloper/HanaToDo/blob/main/iPhone.gif)
